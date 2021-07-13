@@ -1,4 +1,4 @@
-# hotelroombooking
+# hostelsite
 
 ## Project setup
 ```
